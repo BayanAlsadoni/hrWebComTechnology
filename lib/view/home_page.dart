@@ -104,8 +104,6 @@ class HomePage extends StatelessWidget {
               children: [
                 HomeWidget(
                     'الإعلانات',
-                    //  Color.fromARGB(255, 242, 167, 161)
-                    //  ,
                     Icon(
                       Icons.campaign_rounded,
                       color: Color.fromARGB(255, 249, 128, 128),

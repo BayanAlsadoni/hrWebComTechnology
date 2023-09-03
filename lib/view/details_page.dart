@@ -73,27 +73,6 @@ class DetailsPage extends StatelessWidget {
                       color: Color.fromARGB(255, 249, 128, 128),
                     ),
                     UserRolesPage()),
-                // HomeWidget(
-                //     'إعدادات الاجازات',
-                //     Icon(
-                //       Icons.directions_walk_outlined,
-                //       color: Color.fromARGB(255, 249, 128, 128),
-                //     ),
-                //     PerformancePage()),
-                // HomeWidget(
-                //     'سبب المغادرة',
-                //     Icon(
-                //       Icons.repartition_rounded,
-                //       color: Color.fromARGB(255, 249, 128, 128),
-                //     ),
-                //     TransferPage()),
-                // HomeWidget(
-                //     'دور المستخدم',
-                //     Icon(
-                //       Icons.emoji_people_sharp,
-                //       color: Color.fromARGB(255, 249, 128, 128),
-                //     ),
-                //     EndingsPage()),
               ],
             ),
           ),

@@ -98,33 +98,6 @@ class MeetingsDetails extends StatelessWidget {
               // },
             ),
           ],
-        )
-
-// Icons.keyboard_double_arrow_up_outlined
-        // Row(
-        //   mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        //   textDirection: TextDirection.rtl,
-        //   children: [
-        //     Column(
-        //       children: [
-        //         Text('العنوان'),
-        //         Text('تاريخ البدأ'),
-        //         Text('تاريخ الانتهاء'),
-        //         Text('الوصف'),
-        //         Text('الاجراء'),
-        //       ],
-        //     ),
-        //     Column(
-        //       children: [
-        //         Text('add1'),
-        //         Text('20/10/2023'),
-        //         Text('20/10/2023'),
-        //         Text('addvertisment 1'),
-        //         Text('wait'),
-        //       ],
-        //     )
-        //   ],
-        // ),
-        );
+        ));
   }
 }

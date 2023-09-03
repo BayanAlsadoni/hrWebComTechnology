@@ -27,27 +27,6 @@ class MeetingsPage extends StatelessWidget {
             AdvertizmentWidget(Icons.handshake, MeetingsDetails()),
             AdvertizmentWidget(Icons.handshake, MeetingsDetails()),
             AdvertizmentWidget(Icons.handshake, MeetingsDetails()),
-
-            // Container(
-            //   padding: EdgeInsets.all(5),
-            //   margin: EdgeInsets.symmetric(horizontal: 10, vertical: 5),
-            //   decoration: BoxDecoration(
-            //       color: Color.fromARGB(255, 234, 230, 230),
-            //       borderRadius: BorderRadius.circular(10)),
-            //   child: ListTile(
-            //     // splashColor: Colors.amber,
-
-            //     // contentPadding: EdgeInsets.all(10),
-            //     title: Text('add1'),
-            //     subtitle: Text(
-            //         'this adverisment is for emploies company and is begin in 10AM'),
-            //   ),
-            // ),
-
-            // Text('20/10/2023'),
-            // Text('20/10/2023'),
-
-            // Text('this adverisment is for emploies company and is begin in 10AM')
           ],
         ),
       ),

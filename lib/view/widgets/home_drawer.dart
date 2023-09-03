@@ -47,9 +47,7 @@ class HomeDrawer extends StatelessWidget {
                   trailing: Icon(
                     Icons.info_outline_rounded,
                     color: Color.fromARGB(255, 249, 128, 128),
-                  )
-                  // SvgPicture.asset('assets/images/edit_profile_icon.svg'),
-                  ),
+                  )),
             ),
             Divider(),
             Directionality(
@@ -69,32 +67,8 @@ class HomeDrawer extends StatelessWidget {
                   trailing: Icon(
                     Icons.language_outlined,
                     color: Color.fromARGB(255, 249, 128, 128),
-                  )
-                  // SvgPicture.asset('assets/images/edit_profile_icon.svg'),
-                  ),
+                  )),
             ),
-            // Divider(),
-            // Directionality(
-            //   textDirection: TextDirection.rtl,
-            //   child: ListTile(
-            //       onTap: () {
-            //         Navigator.of(context).pop();
-            //         // Navigator.of(context)
-            //         //     .push(MaterialPageRoute(builder: (context) {
-            //         //   // return EditProfilePage();
-            //         // }));
-            //       },
-            //       title: Text(
-            //         'دور المستخدم',
-            //         textAlign: TextAlign.left,
-            //       ),
-            //       trailing: Icon(
-            //         Icons.pie_chart,
-            //         color: Color.fromARGB(255, 249, 128, 128),
-            //       )
-            //       // SvgPicture.asset('assets/images/edit_profile_icon.svg'),
-            //       ),
-            // ),
             Divider(),
             Directionality(
               textDirection: TextDirection.rtl,
@@ -113,9 +87,7 @@ class HomeDrawer extends StatelessWidget {
                   trailing: Icon(
                     Icons.lock_outline,
                     color: Color.fromARGB(255, 249, 128, 128),
-                  )
-                  // SvgPicture.asset('assets/images/edit_profile_icon.svg'),
-                  ),
+                  )),
             ),
             Divider(),
             Directionality(
@@ -135,9 +107,7 @@ class HomeDrawer extends StatelessWidget {
                   trailing: Icon(
                     Icons.logout_outlined,
                     color: Color.fromARGB(255, 249, 128, 128),
-                  )
-                  // SvgPicture.asset('assets/images/edit_profile_icon.svg'),
-                  ),
+                  )),
             ),
             Divider(),
           ],
